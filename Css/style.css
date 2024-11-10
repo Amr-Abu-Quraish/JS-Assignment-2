@@ -1,0 +1,29 @@
+
+.container{
+    background-color: #6b6969;
+}
+.qoute-content h1 {
+    font-size: 80px;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+    margin-bottom: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.qoute-content p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+
+}
+.qoute-content button {
+    padding: 28px 80px;
+    border: 1px solid #000;
+    background-color: blue;
+    color: #fff;
+    margin-top: 15px;
+}
+.qoute-content button:hover {
+    background-color: green;
+}
